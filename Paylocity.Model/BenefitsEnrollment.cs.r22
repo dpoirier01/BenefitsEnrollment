@@ -1,0 +1,124 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Paylocity.Model
+{
+    public class BenefitsEnrollment
+    {
+        public string EmployeeName { get; set; }
+        public decimal EmployeeSalary { get; set; }
+        public decimal EmployeeCost { get; set; }
+        public decimal DependentCost { get; set; }
+        public int NumberOfPayPeriods { get; set; }
+        public List<Dependent> lDependent { get; set; }
+        public List<Dependent> lDependentCosts { get; private set; }
+
+        public decimal GetDiscountAmount()
+        {
+            return GetTotalDiscount();
+        }
+
+        public decimal GetEmployeeTotal()
+        {
+            decimal total = 0;
+            total = EmployeeCost - GetEmployeeDiscount();
+            return total;
+        }
+
+        public decimal GetDependentCost(Dependent dependent)
+        {
+            return DependentCost - this.GetDependentDiscount(dependent);
+        }
+
+        public List<Dependent> GetDependentsInfo()
+        {
+            this.lDependentCosts = new List<Dependent>();
+            Dependent dep;
+            if (lDependent != null)
+            {
+                foreach (Dependent d in lDependent)
+                {
+                    dep = new Dependent();
+                    dep.FirstName = d.FirstName;
+                    dep.LastName = d.LastName;
+                    dep.CostOfBenefits = GetDependentCost(d);
+                    lDependentCosts.Add(dep);
+                }
+            }
+            return lDependentCosts;
+        }
+
+        public decimal GetAnnualEmployeeDependentTotalCost()
+        {
+            decimal total = 0;
+            total = GetEmployeeAndDependentTotal();
+            return total;
+        }
+
+        public decimal GetBiWeeklyTotal()
+        {
+            decimal total = 0;
+
+            total = GetEmployeeAndDependentTotal() / NumberOfPayPeriods;
+            return total;
+        }
+
+        private decimal GetEmployeeAndDependentTotal()
+        {
+            decimal total = 0;
+
+            total = GetEmployeeTotal();
+
+            if (lDependent != null)
+            {
+                foreach (Dependent d in lDependent)
+                    total += GetDependentCost(d);
+            }
+            return total;
+        }
+
+
+
+        #region Discounts
+        //===========================> Discounts
+
+        private decimal discount = 10;
+        private string discountLetter = "a";
+
+        private decimal GetTotalDiscount()
+        {
+            decimal dTotalDiscount = 0;
+            dTotalDiscount = GetEmployeeDiscount();
+            if (lDependent != null)
+            {
+                foreach (Dependent d in lDependent)
+                    dTotalDiscount += GetDependentDiscount(d);
+            }
+            return dTotalDiscount;
+        }
+
+        private decimal GetEmployeeDiscount()
+        {
+            decimal total = 0;
+            string sEmpName = EmployeeName.ToLower().Trim();
+            if (sEmpName.StartsWith(discountLetter))
+                total = EmployeeCost * (discount / 100);
+            return total;
+        }
+
+        private decimal GetDependentDiscount(Dependent dependent)
+        {
+            decimal total = 0;
+            if (dependent.FirstName.ToLower().Trim().StartsWith("a"))
+            {
+                total = DependentCost * (discount / 100);
+                
+            }
+            return total;
+        }
+        #endregion
+    }
+}

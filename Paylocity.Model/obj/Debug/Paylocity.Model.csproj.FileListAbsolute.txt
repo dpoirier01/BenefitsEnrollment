@@ -1,0 +1,17 @@
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Model\bin\Debug\Paylocity.Model.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Model\bin\Debug\Paylocity.Model.pdb
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Model\obj\Debug\Paylocity.Model.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Model\obj\Debug\Paylocity.Model.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Model\obj\Debug\Paylocity.Model.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.Model\bin\Debug\Paylocity.Model.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.Model\bin\Debug\Paylocity.Model.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.Model\obj\Debug\Paylocity.Model.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.Model\obj\Debug\Paylocity.Model.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.Model\obj\Debug\Paylocity.Model.pdb
+C:\svn\Paylocity.Model\bin\Debug\Paylocity.Model.dll
+C:\svn\Paylocity.Model\bin\Debug\Paylocity.Model.pdb
+C:\svn\Paylocity.Model\obj\Debug\Paylocity.Model.csprojResolveAssemblyReference.cache
+C:\svn\Paylocity.Model\obj\Debug\Paylocity.Model.dll
+C:\svn\Paylocity.Model\obj\Debug\Paylocity.Model.pdb
+C:\svn\Paylocity.Model\bin\Debug\Newtonsoft.Json.dll
+C:\svn\Paylocity.Model\bin\Debug\Newtonsoft.Json.xml

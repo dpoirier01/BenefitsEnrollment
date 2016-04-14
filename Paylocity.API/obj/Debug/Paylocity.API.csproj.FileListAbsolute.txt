@@ -1,0 +1,261 @@
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\roslyn\csc.exe
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\roslyn\System.Collections.Immutable.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\roslyn\vbc.exe
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\roslyn\VBCSCompiler.exe
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\roslyn\VBCSCompiler.exe.config
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Paylocity.API.dll.config
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Paylocity.API.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Paylocity.API.pdb
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Antlr3.Runtime.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\EntityFramework.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\EntityFramework.SqlServer.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Security.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Security.Google.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Web.Infrastructure.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Newtonsoft.Json.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Owin.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Net.Http.Formatting.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.Helpers.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.Http.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.Http.Owin.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.Http.WebHost.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.Mvc.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.Optimization.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.Razor.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.WebPages.Deployment.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.WebPages.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.WebPages.Razor.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\WebGrease.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Newtonsoft.Json.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Net.Http.Formatting.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.Helpers.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.Http.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.Http.WebHost.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.Mvc.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.Optimization.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.Razor.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.WebPages.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.WebPages.Deployment.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.WebPages.Razor.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Antlr3.Runtime.pdb
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\EntityFramework.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\EntityFramework.SqlServer.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Security.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Security.Google.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\bin\System.Web.Http.Owin.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\obj\Debug\Paylocity.API.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\obj\Debug\Paylocity.API.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.API\obj\Debug\Paylocity.API.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Practices.Unity.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity\Paylocity.API\bin\Unity.WebApi.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Practices.Unity.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity\Paylocity.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\roslyn\csc.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\roslyn\vbc.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Paylocity.API.dll.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Paylocity.API.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Paylocity.API.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Antlr3.Runtime.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\EntityFramework.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\EntityFramework.SqlServer.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Security.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Practices.Unity.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Newtonsoft.Json.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Owin.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Net.Http.Formatting.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.Helpers.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.Http.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.Http.Owin.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.Http.WebHost.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.Mvc.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.Optimization.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.Razor.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.WebPages.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Unity.WebApi.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\WebGrease.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Practices.Unity.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Newtonsoft.Json.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Net.Http.Formatting.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.Helpers.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.Http.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.Http.WebHost.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.Mvc.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.Optimization.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.Razor.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.WebPages.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Antlr3.Runtime.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\EntityFramework.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\EntityFramework.SqlServer.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Security.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\bin\System.Web.Http.Owin.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\obj\Debug\Paylocity.API.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\obj\Debug\Paylocity.API.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.API\obj\Debug\Paylocity.API.pdb
+C:\svn\Paylocity.API\bin\roslyn\csc.exe
+C:\svn\Paylocity.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\svn\Paylocity.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\svn\Paylocity.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\svn\Paylocity.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\svn\Paylocity.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\svn\Paylocity.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\svn\Paylocity.API\bin\roslyn\System.Collections.Immutable.dll
+C:\svn\Paylocity.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\svn\Paylocity.API\bin\roslyn\vbc.exe
+C:\svn\Paylocity.API\bin\roslyn\VBCSCompiler.exe
+C:\svn\Paylocity.API\bin\roslyn\VBCSCompiler.exe.config
+C:\svn\Paylocity.API\bin\Paylocity.API.dll.config
+C:\svn\Paylocity.API\bin\Paylocity.API.dll
+C:\svn\Paylocity.API\bin\Paylocity.API.pdb
+C:\svn\Paylocity.API\bin\Antlr3.Runtime.dll
+C:\svn\Paylocity.API\bin\EntityFramework.dll
+C:\svn\Paylocity.API\bin\EntityFramework.SqlServer.dll
+C:\svn\Paylocity.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\svn\Paylocity.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\svn\Paylocity.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\svn\Paylocity.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\svn\Paylocity.API\bin\Microsoft.Owin.dll
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Security.dll
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Security.Facebook.dll
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Security.Google.dll
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Security.Twitter.dll
+C:\svn\Paylocity.API\bin\Microsoft.Practices.ServiceLocation.dll
+C:\svn\Paylocity.API\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\svn\Paylocity.API\bin\Microsoft.Practices.Unity.dll
+C:\svn\Paylocity.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\svn\Paylocity.API\bin\Microsoft.Web.Infrastructure.dll
+C:\svn\Paylocity.API\bin\Newtonsoft.Json.dll
+C:\svn\Paylocity.API\bin\Owin.dll
+C:\svn\Paylocity.API\bin\System.Net.Http.Formatting.dll
+C:\svn\Paylocity.API\bin\System.Web.Helpers.dll
+C:\svn\Paylocity.API\bin\System.Web.Http.dll
+C:\svn\Paylocity.API\bin\System.Web.Http.Owin.dll
+C:\svn\Paylocity.API\bin\System.Web.Http.WebHost.dll
+C:\svn\Paylocity.API\bin\System.Web.Mvc.dll
+C:\svn\Paylocity.API\bin\System.Web.Optimization.dll
+C:\svn\Paylocity.API\bin\System.Web.Razor.dll
+C:\svn\Paylocity.API\bin\System.Web.WebPages.Deployment.dll
+C:\svn\Paylocity.API\bin\System.Web.WebPages.dll
+C:\svn\Paylocity.API\bin\System.Web.WebPages.Razor.dll
+C:\svn\Paylocity.API\bin\Unity.WebApi.dll
+C:\svn\Paylocity.API\bin\WebGrease.dll
+C:\svn\Paylocity.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\svn\Paylocity.API\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\svn\Paylocity.API\bin\Microsoft.Practices.ServiceLocation.xml
+C:\svn\Paylocity.API\bin\Microsoft.Practices.Unity.xml
+C:\svn\Paylocity.API\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\svn\Paylocity.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\svn\Paylocity.API\bin\Newtonsoft.Json.xml
+C:\svn\Paylocity.API\bin\System.Net.Http.Formatting.xml
+C:\svn\Paylocity.API\bin\System.Web.Helpers.xml
+C:\svn\Paylocity.API\bin\System.Web.Http.xml
+C:\svn\Paylocity.API\bin\System.Web.Http.WebHost.xml
+C:\svn\Paylocity.API\bin\System.Web.Mvc.xml
+C:\svn\Paylocity.API\bin\System.Web.Optimization.xml
+C:\svn\Paylocity.API\bin\System.Web.Razor.xml
+C:\svn\Paylocity.API\bin\System.Web.WebPages.xml
+C:\svn\Paylocity.API\bin\System.Web.WebPages.Deployment.xml
+C:\svn\Paylocity.API\bin\System.Web.WebPages.Razor.xml
+C:\svn\Paylocity.API\bin\Antlr3.Runtime.pdb
+C:\svn\Paylocity.API\bin\EntityFramework.xml
+C:\svn\Paylocity.API\bin\EntityFramework.SqlServer.xml
+C:\svn\Paylocity.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\svn\Paylocity.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\svn\Paylocity.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\svn\Paylocity.API\bin\Microsoft.Owin.xml
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Security.xml
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Security.Facebook.xml
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Security.Google.xml
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Security.Twitter.xml
+C:\svn\Paylocity.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\svn\Paylocity.API\bin\System.Web.Http.Owin.xml
+C:\svn\Paylocity.API\obj\Debug\Paylocity.API.csprojResolveAssemblyReference.cache
+C:\svn\Paylocity.API\obj\Debug\Paylocity.API.dll
+C:\svn\Paylocity.API\obj\Debug\Paylocity.API.pdb

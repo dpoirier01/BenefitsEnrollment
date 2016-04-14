@@ -1,0 +1,54 @@
+﻿@model Paylocity.Web.Models.BenefitsViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+@using (Html.BeginForm("PostEmployeeDependents", "Benefits", FormMethod.Post, new { @class = "form-horizontal", @id = "BenefitsForm", @role = "form" }))
+{
+    @Html.AntiForgeryToken()
+
+    <fieldset>
+        <legend>Add Employee</legend>
+        <div class="row row-buffer">
+            <div class="col-md-12  form-inline">
+                <div>
+                    First Name:
+                    @Html.TextBoxFor(m => m.FirstName, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(o => o.FirstName)
+
+                    Last Name:
+                    @Html.TextBoxFor(m => m.LastName, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(o => o.LastName)
+                </div>
+            </div>
+        </div>
+    </fieldset>
+
+    <fieldset>
+        <legend>Add Dependents</legend>
+        <div class="row row-buffer">
+
+            <div class="col-md-12 input_fields_wrap form-inline">
+                <div class=" row-buffer">
+
+                    First Name: <input type="text" name="DependentFirstName[]" class="form-control">
+
+                    Last Name: <input type="text" name="DependentLastName[]" class="form-control">
+                    <button class="add_field_button btn btn-info">Add More Dependents</button>
+                </div>
+            </div>
+        </div>
+    </fieldset>
+    <div class="row row-buffer">
+
+        <div class="col-md-12 text-center">
+
+            <input type="submit" class="btn btn-success" value="View Benefits Summary" />
+        </div>
+    </div>
+}
+
+
+
+
+

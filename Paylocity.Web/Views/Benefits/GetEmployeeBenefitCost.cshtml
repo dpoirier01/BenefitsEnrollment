@@ -1,0 +1,122 @@
+﻿@model Paylocity.Web.Models.EmployeeBenefitsCostViewModel
+
+@{
+    ViewBag.Title = "GetEmployeeBenefitCost";
+}
+
+
+<h3 class="bold">@Html.DisplayFor(model => model.EmployeeName)</h3>
+<table class="table-responsive">
+    <thead>
+        <tr class="border-bottom">
+            <th>
+                <span>Earning</span>
+            </th>
+            <th>
+                <span>Bi-weekly Cost</span>
+            </th>
+            <th>
+                <span>Annual Cost</span>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="background-shading">
+            <td class="column-head text-pad-left-40">
+                <span>Gross Salary</span>
+            </td>
+            <td>
+                <span>@string.Format("{0:C}", Model.EmployeeBiWeeklySalary)</span>
+            </td>
+            <td>
+                <span>@string.Format("{0:C}", Model.EmployeeAnnualSalary)</span>
+            </td>
+        </tr>
+        <tr class=" border-bottom">
+            <td colspan="3" class="row-buffer-top">
+                <span class="bold">Deductions</span>
+            </td>
+        </tr>
+        @if (Model.EmployeeDiscountAmount > 0)
+        {
+        <tr>
+            <td class="column-head text-pad-left-40">
+                <span class="discount">Employee @Model.EmployeeDiscountAmount % discount</span>
+            </td>
+            <td>
+                <span>@string.Format("{0:C}", Model.EmployeeBiWeeklyTotalCost)</span>
+            </td>
+            <td>
+                <span>@string.Format("{0:C}", Model.EmployeeCostAfterDeductions)</span>
+            </td>
+        </tr>
+        }
+        else
+        {
+            <tr>
+                <td class="column-head text-pad-left-40">
+                    <span>Employee</span>
+                </td>
+                <td>
+                    <span>@string.Format("{0:C}", Model.EmployeeBiWeeklyTotalCost)</span>
+                </td>
+                <td>
+                    <span>@string.Format("{0:C}", Model.EmployeeCostAfterDeductions)</span>
+                </td>
+            </tr>
+        }
+        @if (Model.lDependentsCostInfo != null)
+        {
+            <tr>
+                <td class="column-head text-pad-left-40">
+                    <span>Dependent (@Model.lDependentsCostInfo.Count().ToString() Total)</span>
+                </td>
+                <td></td>
+                <td></td>
+            </tr>
+            foreach(var dependent in Model.lDependentsCostInfo)
+            {
+                <tr>
+                    <td class="column-head text-pad-left-80">
+                        @dependent.FirstName @dependent.LastName
+                        @if (dependent.Discount > 0)
+                        {
+                            <span class="discount">(@dependent.Discount % discount)</span>
+                        }
+                    </td>
+                    <td>
+                        @string.Format("{0:C}", @Decimal.Round(@dependent.BiWeeklyCostOfBenefits.Value, 2))
+                    </td>
+                    <td>
+                        @string.Format("{0:C}", @Decimal.Round(@dependent.CostOfBenefits, 2))
+                    </td>
+                </tr>
+            }
+        }
+        <tr class="border-bottom">
+            <td class="column-head text-pad-left-40">
+                <span class="bold">Total</span>
+            </td>
+            <td>
+                <span class="bold">@string.Format("{0:C}", Model.BiWeeklyTotal)</span>
+            </td>
+            <td>
+                <span class="bold">@string.Format("{0:C}", Model.AnnualTotal)</span>
+            </td>
+        </tr>
+        <tr class="background-shading">
+            <td class="column-head">
+                <span class="bold">After Deductions (Net Pay)</span>
+            </td>
+            <td>
+                <span class="bold">@string.Format("{0:C}", Model.EmployeeBiWeeklyAfterDeductions)</span>
+            </td>
+            <td>
+                <span class="bold">@string.Format("{0:C}", Model.EmployeeSalaryAfterDeductions)</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div class="row-buffer">
+    @Html.ActionLink("Enter New Employee", "Index")
+</div>

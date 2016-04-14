@@ -1,0 +1,42 @@
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\roslyn\csc.exe
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\roslyn\System.Collections.Immutable.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\roslyn\vbc.exe
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\roslyn\VBCSCompiler.exe
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\roslyn\VBCSCompiler.exe.config
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\Paylocity.dll.config
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\Paylocity.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\Paylocity.pdb
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\obj\Debug\Paylocity.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\obj\Debug\Paylocity.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity\obj\Debug\Paylocity.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity\Paylocity\bin\App_Data\Paylocity.mdf
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity\Paylocity\bin\App_Data\Paylocity_log.ldf
+C:\svn\Paylocity\bin\roslyn\csc.exe
+C:\svn\Paylocity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\svn\Paylocity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\svn\Paylocity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\svn\Paylocity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\svn\Paylocity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\svn\Paylocity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\svn\Paylocity\bin\roslyn\System.Collections.Immutable.dll
+C:\svn\Paylocity\bin\roslyn\System.Reflection.Metadata.dll
+C:\svn\Paylocity\bin\roslyn\vbc.exe
+C:\svn\Paylocity\bin\roslyn\VBCSCompiler.exe
+C:\svn\Paylocity\bin\roslyn\VBCSCompiler.exe.config
+C:\svn\Paylocity\bin\Paylocity.dll.config
+C:\svn\Paylocity\bin\Paylocity.dll
+C:\svn\Paylocity\bin\Paylocity.pdb
+C:\svn\Paylocity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\svn\Paylocity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\svn\Paylocity\obj\Debug\Paylocity.csprojResolveAssemblyReference.cache
+C:\svn\Paylocity\obj\Debug\Paylocity.dll
+C:\svn\Paylocity\obj\Debug\Paylocity.pdb

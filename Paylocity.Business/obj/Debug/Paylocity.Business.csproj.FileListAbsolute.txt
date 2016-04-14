@@ -1,0 +1,31 @@
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Business\bin\Debug\Paylocity.Business.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Business\bin\Debug\Paylocity.Business.pdb
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Business\bin\Debug\Newtonsoft.Json.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Business\bin\Debug\Newtonsoft.Json.xml
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Business\obj\Debug\Paylocity.Business.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Business\obj\Debug\Paylocity.Business.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Business\obj\Debug\Paylocity.Business.pdb
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Business\bin\Debug\Paylocity.Model.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Business\bin\Debug\Paylocity.Model.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity\Paylocity.Business\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.Business\bin\Debug\Paylocity.Business.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.Business\bin\Debug\Paylocity.Business.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.Business\bin\Debug\Paylocity.Model.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.Business\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.Business\bin\Debug\Paylocity.Model.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.Business\obj\Debug\Paylocity.Business.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.Business\obj\Debug\Paylocity.Business.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity - Copy (2)\Paylocity.Business\obj\Debug\Paylocity.Business.pdb
+C:\svn\Paylocity.Business\bin\Debug\Paylocity.Business.dll
+C:\svn\Paylocity.Business\bin\Debug\Paylocity.Business.pdb
+C:\svn\Paylocity.Business\bin\Debug\Paylocity.Model.dll
+C:\svn\Paylocity.Business\bin\Debug\System.Net.Http.Formatting.dll
+C:\svn\Paylocity.Business\bin\Debug\Paylocity.Model.pdb
+C:\svn\Paylocity.Business\obj\Debug\Paylocity.Business.csprojResolveAssemblyReference.cache
+C:\svn\Paylocity.Business\obj\Debug\Paylocity.Business.dll
+C:\svn\Paylocity.Business\obj\Debug\Paylocity.Business.pdb
+C:\svn\Paylocity.Business\bin\Debug\Paylocity.Business.dll.config
+C:\svn\Paylocity.Business\bin\Debug\Newtonsoft.Json.dll
+C:\svn\Paylocity.Business\bin\Debug\Newtonsoft.Json.xml

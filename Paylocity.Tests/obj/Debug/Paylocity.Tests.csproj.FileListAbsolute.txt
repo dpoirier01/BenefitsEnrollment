@@ -1,0 +1,85 @@
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Tests\bin\Debug\Paylocity.Tests.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Tests\bin\Debug\Paylocity.Tests.pdb
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Tests\obj\Debug\Paylocity.Tests.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Tests\obj\Debug\Paylocity.Tests.dll
+c:\users\david\documents\visual studio 2015\Projects\Paylocity\Paylocity.Tests\obj\Debug\Paylocity.Tests.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity\Paylocity.Tests\bin\Debug\Paylocity.Model.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Paylocity\Paylocity.Tests\bin\Debug\Paylocity.Model.pdb
+C:\svn\Paylocity.Tests\bin\Debug\Paylocity.Tests.dll
+C:\svn\Paylocity.Tests\bin\Debug\Paylocity.Tests.pdb
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\svn\Paylocity.Tests\bin\Debug\Paylocity.Model.dll
+C:\svn\Paylocity.Tests\bin\Debug\Paylocity.Model.pdb
+C:\svn\Paylocity.Tests\obj\Debug\Paylocity.Tests.csprojResolveAssemblyReference.cache
+C:\svn\Paylocity.Tests\obj\Debug\Paylocity.Tests.dll
+C:\svn\Paylocity.Tests\obj\Debug\Paylocity.Tests.pdb
+C:\svn\Paylocity.Tests\bin\Debug\roslyn\csc.exe
+C:\svn\Paylocity.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\svn\Paylocity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\svn\Paylocity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\svn\Paylocity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\svn\Paylocity.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\svn\Paylocity.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\svn\Paylocity.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\svn\Paylocity.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\svn\Paylocity.Tests\bin\Debug\roslyn\vbc.exe
+C:\svn\Paylocity.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\svn\Paylocity.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\svn\Paylocity.Tests\bin\Debug\Paylocity.Tests.dll.config
+C:\svn\Paylocity.Tests\bin\Debug\Moq.dll
+C:\svn\Paylocity.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\svn\Paylocity.Tests\bin\Debug\nunit.framework.dll
+C:\svn\Paylocity.Tests\bin\Debug\Paylocity.API.dll
+C:\svn\Paylocity.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.Http.dll
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.Owin.dll
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.Optimization.dll
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.Mvc.dll
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\svn\Paylocity.Tests\bin\Debug\Owin.dll
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\svn\Paylocity.Tests\bin\Debug\EntityFramework.dll
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\svn\Paylocity.Tests\bin\Debug\Unity.WebApi.dll
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.Razor.dll
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.WebPages.dll
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\svn\Paylocity.Tests\bin\Debug\Paylocity.API.pdb
+C:\svn\Paylocity.Tests\bin\Debug\Moq.xml
+C:\svn\Paylocity.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\svn\Paylocity.Tests\bin\Debug\nunit.framework.xml
+C:\svn\Paylocity.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.Http.xml
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.Owin.xml
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.Optimization.xml
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.Mvc.xml
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\svn\Paylocity.Tests\bin\Debug\EntityFramework.xml
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.Razor.xml
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.WebPages.xml
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\svn\Paylocity.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\svn\Paylocity.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\svn\Paylocity.Tests\bin\Debug\nunit.core.dll
+C:\svn\Paylocity.Tests\bin\Debug\nunit.core.interfaces.dll
+C:\svn\Paylocity.Tests\bin\Debug\nunit.util.dll
+C:\svn\Paylocity.Tests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
