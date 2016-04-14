@@ -8,6 +8,6 @@ namespace Paylocity.Model.Benefits
 {
     public class BaseDependentCost : Cost
     {
-        public override decimal Amount { get { return 500; } } 
+        public override decimal Amount { get { return 500; } }
     }
 }
