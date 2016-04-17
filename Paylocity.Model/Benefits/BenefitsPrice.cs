@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Paylocity.Model.Benefits
 {
-    public abstract class Cost
+    public abstract class BenefitsPrice
     {
-        public abstract decimal Amount { get; }
+        public abstract decimal Cost();
     }
 }

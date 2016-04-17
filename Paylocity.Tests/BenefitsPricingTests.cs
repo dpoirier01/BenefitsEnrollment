@@ -298,7 +298,7 @@ namespace Paylocity.Tests
         {
             BaseEmployeeCost empCost = new BaseEmployeeCost();
 
-            Assert.AreEqual(empCost.Amount, 1000M);
+            Assert.AreEqual(empCost.Amount(), 1000M);
         }
 
         [TestMethod]
@@ -306,7 +306,7 @@ namespace Paylocity.Tests
         {
             BaseDependentCost depCost = new BaseDependentCost();
 
-            Assert.AreEqual(depCost.Amount, 500M);
+            Assert.AreEqual(depCost.Amount(), 500M);
         }
     }
 }

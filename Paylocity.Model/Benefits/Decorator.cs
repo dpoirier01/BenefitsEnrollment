@@ -6,14 +6,18 @@ using System.Threading.Tasks;
 
 namespace Paylocity.Model.Benefits
 {
-    public abstract class Decorator : Cost
+    public abstract class Decorator : BenefitsPrice
     {
-        protected Cost _component;
-        protected decimal _amount;
+        BenefitsPrice _basePrice = null;
 
-        protected Decorator(Cost component)
+        protected Decorator(BenefitsPrice cost)
         {
-            _component = component;
+            _basePrice = cost;
+        }
+
+        public override decimal Cost()
+        {
+            return _basePrice.Cost();
         }
     }
 }

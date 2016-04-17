@@ -8,9 +8,14 @@ namespace Paylocity.Model.Benefits.Discounts
 {
     public class LastNameBeginsWithLetter_B :Decorator 
     {
-        public LastNameBeginsWithLetter_B(Decorator amount) : base(amount)
+        public LastNameBeginsWithLetter_B(BenefitsPrice amount) : base(amount)
         {
 
+        }
+
+        public override decimal Cost()
+        {
+            return base.Cost() * 3;
         }
     }
 }
