@@ -17,7 +17,7 @@ namespace Paylocity.Model.Benefits.Discounts
 
         public override decimal Cost()
         {
-            return base.Cost() * 5;
+            return base.Cost() * 10;
         }
     }
 }
