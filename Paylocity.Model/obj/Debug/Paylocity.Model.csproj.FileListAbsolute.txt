@@ -15,3 +15,10 @@ C:\svn\Paylocity.Model\obj\Debug\Paylocity.Model.dll
 C:\svn\Paylocity.Model\obj\Debug\Paylocity.Model.pdb
 C:\svn\Paylocity.Model\bin\Debug\Newtonsoft.Json.dll
 C:\svn\Paylocity.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\David\Documents\GitHub\BenefitsEnrollment\Paylocity.Model\bin\Debug\Paylocity.Model.dll
+C:\Users\David\Documents\GitHub\BenefitsEnrollment\Paylocity.Model\bin\Debug\Paylocity.Model.pdb
+C:\Users\David\Documents\GitHub\BenefitsEnrollment\Paylocity.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David\Documents\GitHub\BenefitsEnrollment\Paylocity.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\David\Documents\GitHub\BenefitsEnrollment\Paylocity.Model\obj\Debug\Paylocity.Model.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\BenefitsEnrollment\Paylocity.Model\obj\Debug\Paylocity.Model.dll
+C:\Users\David\Documents\GitHub\BenefitsEnrollment\Paylocity.Model\obj\Debug\Paylocity.Model.pdb

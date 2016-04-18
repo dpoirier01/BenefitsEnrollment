@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace Paylocity.Model.Benefits
 {
-    public class BaseDependentCost : Cost
+    public class BaseDependentCost : BenefitsPrice 
     {
-        public override decimal Amount { get { return 500; } }   
+        public override decimal Cost()
+        {
+            return 500;
+        }  
     }
 }

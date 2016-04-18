@@ -46,8 +46,11 @@
   <ItemGroup>
     <Compile Include="Benefits\BaseDependentCost.cs" />
     <Compile Include="Benefits\BaseEmployeeCost.cs" />
-    <Compile Include="Benefits\Cost.cs" />
+    <Compile Include="Benefits\BenefitsPrice.cs" />
+    <Compile Include="Benefits\Decorator.cs" />
     <Compile Include="Benefits\Dependent.cs" />
+    <Compile Include="Benefits\Discounts\FirstNameBeginsWithLetter_A.cs" />
+    <Compile Include="Benefits\Discounts\LastNameBeginsWithLetter_B.cs" />
     <Compile Include="Benefits\Employee.cs" />
     <Compile Include="Benefits\Person.cs" />
     <Compile Include="BenefitsEnrollment.cs" />
