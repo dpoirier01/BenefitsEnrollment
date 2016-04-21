@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Paylocity.Model.Benefits
 {
-    public class BaseDependentCost : BenefitsPrice 
+    public class BaseDependentCost : BenefitsPriceComponent
     {
         public override decimal Cost()
         {

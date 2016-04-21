@@ -8,6 +8,7 @@ using Paylocity.API.Controllers;
 using System.Web.Http.Results;
 using Paylocity.API.Models.DTO;
 using Paylocity.Model.Benefits;
+using Paylocity.Model.Benefits.Discounts;
 
 namespace Paylocity.Tests
 {
@@ -298,7 +299,7 @@ namespace Paylocity.Tests
         {
             BaseEmployeeCost empCost = new BaseEmployeeCost();
 
-            Assert.AreEqual(empCost.Amount(), 1000M);
+            Assert.AreEqual(empCost.Cost(), 1000M);
         }
 
         [TestMethod]
@@ -306,7 +307,18 @@ namespace Paylocity.Tests
         {
             BaseDependentCost depCost = new BaseDependentCost();
 
-            Assert.AreEqual(depCost.Amount(), 500M);
+            Assert.AreEqual(depCost.Cost(), 500M);
         }
+
+        //[TestMethod]
+        //[ExpectedException(typeof(DivideByZeroException))]
+        //public void letter_A_dicount_cost_calculation_raises_exception_divide_by_zero()
+        //{
+        //    BaseDependentCost baseCost = new BaseDependentCost();
+
+        //    var discount = new FirstNameBeginsWithLetter_A(baseCost, 0);
+
+        //    discount.Cost();
+        //}
     }
 }

@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Paylocity.Model.Benefits
 {
-    public abstract class Decorator : BenefitsPrice
+    public abstract class Decorator : BenefitsPriceComponent
     {
-        BenefitsPrice _basePrice = null;
+        BenefitsPriceComponent _basePrice = null;
 
-        protected Decorator(BenefitsPrice cost)
+        protected Decorator(BenefitsPriceComponent cost)
         {
             _basePrice = cost;
         }
