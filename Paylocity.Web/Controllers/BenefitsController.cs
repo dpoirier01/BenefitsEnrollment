@@ -60,7 +60,7 @@ namespace Paylocity.Web.Controllers
         {
             BaseEmployeeCost empCost = new BaseEmployeeCost();
             FirstNameBeginsWithLetter_A a_discount = new FirstNameBeginsWithLetter_A(empCost);
-            a_discount.Cost();
+            var d = a_discount.Cost();
 
 
 

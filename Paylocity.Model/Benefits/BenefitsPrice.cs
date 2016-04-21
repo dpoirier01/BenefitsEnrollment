@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Paylocity.Model.Benefits
 {
-    public abstract class BenefitsPrice
+    public abstract class BenefitsPriceComponent
     {
         public abstract decimal Cost();
     }
